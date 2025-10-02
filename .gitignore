@@ -1,0 +1,9 @@
+*.exe
+.vscode
+.DS_Store
+a.out
+*.o
+*.class
+__pycache__/
+*.pyc
+*.pyo

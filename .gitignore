@@ -7,3 +7,6 @@ a.out
 __pycache__/
 *.pyc
 *.pyo
+
+# Exam files - DO NOT COMMIT
+Seminar/Test_2
